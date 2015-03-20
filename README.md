@@ -1,6 +1,6 @@
 # MyRepo
 For learning how to use git.
 yoyoyo
-Breaking Bad is aweful!
+Breaking Bad is awesome!
 blablabla
 fuck you!!
