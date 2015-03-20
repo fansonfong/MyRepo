@@ -1,3 +1,5 @@
 # MyRepo
 For learning how to use git.
-Breaking Bad is damn good!
+yoyoyo
+Breaking Bad is awesome!
+blablabla
